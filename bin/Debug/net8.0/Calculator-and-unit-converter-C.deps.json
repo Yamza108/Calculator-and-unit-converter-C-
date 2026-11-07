@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Calculator-and-unit-converter-C/1.0.0": {
+        "runtime": {
+          "Calculator-and-unit-converter-C.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculator-and-unit-converter-C/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\yamke\OneDrive\Desktop\Zhuwa_Software_Engineering\Calculator-and-unit-converter-C-\obj\Debug\net8.0\Calculator-and-unit-converter-C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yamke\OneDrive\Desktop\Zhuwa_Software_Engineering\Calculator-and-unit-converter-C-\obj\Debug\net8.0\Calculator-and-unit-converter-C.AssemblyInfoInputs.cache
+C:\Users\yamke\OneDrive\Desktop\Zhuwa_Software_Engineering\Calculator-and-unit-converter-C-\obj\Debug\net8.0\Calculator-and-unit-converter-C.AssemblyInfo.cs
+C:\Users\yamke\OneDrive\Desktop\Zhuwa_Software_Engineering\Calculator-and-unit-converter-C-\obj\Debug\net8.0\Calculator-and-unit-converter-C.csproj.CoreCompileInputs.cache
+C:\Users\yamke\OneDrive\Desktop\Zhuwa_Software_Engineering\Calculator-and-unit-converter-C-\bin\Debug\net8.0\Calculator-and-unit-converter-C.exe
+C:\Users\yamke\OneDrive\Desktop\Zhuwa_Software_Engineering\Calculator-and-unit-converter-C-\bin\Debug\net8.0\Calculator-and-unit-converter-C.deps.json
+C:\Users\yamke\OneDrive\Desktop\Zhuwa_Software_Engineering\Calculator-and-unit-converter-C-\bin\Debug\net8.0\Calculator-and-unit-converter-C.runtimeconfig.json
+C:\Users\yamke\OneDrive\Desktop\Zhuwa_Software_Engineering\Calculator-and-unit-converter-C-\bin\Debug\net8.0\Calculator-and-unit-converter-C.dll
+C:\Users\yamke\OneDrive\Desktop\Zhuwa_Software_Engineering\Calculator-and-unit-converter-C-\bin\Debug\net8.0\Calculator-and-unit-converter-C.pdb
+C:\Users\yamke\OneDrive\Desktop\Zhuwa_Software_Engineering\Calculator-and-unit-converter-C-\obj\Debug\net8.0\Calculator-and-unit-converter-C.dll
+C:\Users\yamke\OneDrive\Desktop\Zhuwa_Software_Engineering\Calculator-and-unit-converter-C-\obj\Debug\net8.0\refint\Calculator-and-unit-converter-C.dll
+C:\Users\yamke\OneDrive\Desktop\Zhuwa_Software_Engineering\Calculator-and-unit-converter-C-\obj\Debug\net8.0\Calculator-and-unit-converter-C.pdb
+C:\Users\yamke\OneDrive\Desktop\Zhuwa_Software_Engineering\Calculator-and-unit-converter-C-\obj\Debug\net8.0\Calculator-and-unit-converter-C.genruntimeconfig.cache
+C:\Users\yamke\OneDrive\Desktop\Zhuwa_Software_Engineering\Calculator-and-unit-converter-C-\obj\Debug\net8.0\ref\Calculator-and-unit-converter-C.dll
